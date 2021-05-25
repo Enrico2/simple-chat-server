@@ -7,7 +7,7 @@ Run:
 cargo run
 ```
 
-Open a few terminal windows with `nc`
+Open a few terminal windows with `nc localhost 7878`
 
 Every text sent from a window will show up in the other windows.
 
